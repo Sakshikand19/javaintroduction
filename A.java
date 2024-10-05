@@ -1,4 +1,4 @@
-package Chapter1.java;
+package Assignment;
 
 public class A {
 	// Java program to illustrate the

@@ -1,17 +1,17 @@
-package Chapter1.java;
+package bca;
 
 public class Test {
-	static int z=30;
-	int x=20;
-	public void m1() {
-		int y=10;
-	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-Test t1=new Test();
-Test t2=new Test();
-System.out.println(t1.x);
-	}
+		int a=20;
+		int b=30;
+		if(a>b)
+		{	
+		System.out.println("b is greater ");
+		System.out.println("a is greater ");
 
+		}
+		System.out.println("continued");
 }
+}
+

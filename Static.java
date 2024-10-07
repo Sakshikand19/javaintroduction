@@ -1,12 +1,12 @@
 package bca;
 
-public class Char {
+public class Static {
+static int x=20;
+int p=45;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      char c= 2309;
-      System.out.println("value of c" +c+ "Hii");
-      
+       System.out.println(x); 
 	}
 
 }
